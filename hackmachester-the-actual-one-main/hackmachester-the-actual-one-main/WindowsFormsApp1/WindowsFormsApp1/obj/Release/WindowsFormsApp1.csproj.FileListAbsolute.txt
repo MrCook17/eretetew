@@ -1,0 +1,12 @@
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MainScreen.resources
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.InputGoalScreen.resources
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.InputsForm.resources
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Lizzie\Documents\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
